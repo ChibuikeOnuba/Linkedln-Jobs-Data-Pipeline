@@ -60,6 +60,6 @@ jobs:
         password: ${{secrets.EMAIL_PASS}}
         subject: Weekly LinkedIn Data CSV File
         body: Please find attached the latest job posting for data engineer on LinkedIn in the CSV.
-        to: chidera.ozigbo.241418@unn.edu.ng
+        to: onubawinner042@gmail.com
         from: GitHub Actions
         attachments: ${{ steps.find_csv.outputs.latest_csv }}

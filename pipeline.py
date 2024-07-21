@@ -5,7 +5,6 @@ import pandas as pd
 import requests
 from datetime import datetime
 import os
-from dotenv import load_dotenv
 
 
 #%%
@@ -36,7 +35,7 @@ def logging(message, log_print=False):
 # Extract function
 def extract_data(url):
     payload = {
-        "keywords": "Junior Data Engineer",
+        "keywords": "Junior Data Scientist",
         "location": "Melbourne, Australia",
         "count": 20
     }

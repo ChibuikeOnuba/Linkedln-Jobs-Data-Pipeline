@@ -9,3 +9,14 @@
 2024-07-19 23:52:30 - Data Saved to csv
 2024-07-19 23:52:30 - Transform Task Ended
 2024-07-19 23:52:30 - ETL Task Completed. So, I fit go sleep. Lol
+2024-07-21 21:04:57 - ETL Job Started
+2024-07-21 21:04:57 - Extract Task Started
+2024-07-21 21:05:05 - Extract Task Ended
+2024-07-21 21:05:05 - Transform Task Started
+2024-07-21 21:05:06 - Began the renaming of columns
+2024-07-21 21:05:06 - Began the task of replacing null values
+2024-07-21 21:05:06 - Completed the task of replacing null values
+2024-07-21 21:05:06 - Preparing to save the data
+2024-07-21 21:05:06 - Data Saved to csv
+2024-07-21 21:05:07 - Transform Task Ended
+2024-07-21 21:05:07 - ETL Task Completed. So, I fit go sleep. Lol
